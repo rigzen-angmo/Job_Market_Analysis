@@ -16,7 +16,7 @@ This project analyzes **742 job postings** to identify job trends, salary patter
 
 ## Tools Used
 
-- **MySQL** – Data cleaning and analysis
+- **Power Query** – Data cleaning and analysis
 - **Power BI** – Data visualization and dashboard creation
 
 ## Data Preparation
